@@ -1,4 +1,4 @@
-# Fireflies flutter generative art
+# Fireflies Flutter generative art
 
 ### Generative art using Flutter
 :sparkles:
