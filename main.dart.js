@@ -44739,7 +44739,7 @@ N.V1.prototype={
 $1:function(a){return!0},
 $S:32}
 F.wW.prototype={
-T:function(a,b){return new S.oV(new U.p8(null),"Flutter Art",X.a0Y(C.ag,C.lB,C.vh.h(0,900)),!1,null)}}
+T:function(a,b){return new S.oV(new U.p8(null),"Generative Fire Flies by Haleem Hawkins",X.a0Y(C.ag,C.lB,C.vh.h(0,900)),!1,null)}}
 U.p8.prototype={
 aQ:function(){var s=new P.Tq()
 s.He(Date.now())
