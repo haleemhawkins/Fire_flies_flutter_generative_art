@@ -11,4 +11,4 @@
 
  ### Lessons Learned:
  * I would like to add a background image wigit between the background and the particles.
- * Next time try a pre-built in particle wigit for simpler modifications.
+ * Next time try a pre-built in particle widgit for simpler modifications.
