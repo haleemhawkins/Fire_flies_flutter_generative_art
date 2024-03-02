@@ -10,5 +10,5 @@
  -----------------------------------------------------------------------------------------------
 
  ### Lessons Learned:
- * I would like to add a background image widgit between the background and the particles.
- * Next time try a pre-built in particle widgit for simpler modifications.
+ * I would like to add a background image widget between the background and the particles.
+ * Next time try a pre-built in particle widget for simpler modifications.
