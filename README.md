@@ -1,8 +1,8 @@
 # Fireflies Flutter generative art
-
-### Generative art using Flutter
+*Generative art using Flutter*
 :sparkles:
-## Link: https://haleemhawkins.github.io/Fire_flies_flutter_generative_art/#/
+### Project Link:
+> https://haleemhawkins.github.io/Fire_flies_flutter_generative_art/#/
 
 ------------------------------------------------------------------------
  >This project was referenced from Coding with Indy - Generative Art with Flutter(part one), published: Aug 7, 2020 on Youtube.com
